@@ -1,1 +1,1 @@
-pint ("ET0735 - DevOps")
+pint ("ET0735 - devops is a DCPE module")

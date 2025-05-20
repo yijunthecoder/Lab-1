@@ -1,2 +1,2 @@
-print ("ET0735 - devops is a DCPE module")
-print ("I am working in bug-fix1 "
+print ("ET0735 - DevOps is a DCPE module ")
+print ("ET0735 - DevOps for AIoT")

@@ -1,2 +1,2 @@
 # ET0735 - Lab 1 (Introduction to Git and GitHub)
-![alt text]([C:\Users\pokem\OneDrive\Pictures\Screenshots\me for DevOps.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Fpng-images%2Fqiantu-raining-kneeling-in-the-rain-crying-cartoon-character-illustration_2720847.html&psig=AOvVaw2Xu3WvKbOTMYkbvcYSJyCk&ust=1748184608613000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC2n7CtvI0DFQAAAAAdAAAAABAE) "I can't do this")
+![alt text](https://github.com/yijunthecoder/Lab-1/blob/master/me%20for%20DevOps.png?raw=true)
